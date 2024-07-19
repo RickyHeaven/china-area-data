@@ -1,6 +1,6 @@
 {
   "name": "china-area-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "中国行政区域区域划分(含港澳台)，三级，省-市-区，数据来源于国家统计局2023年6月统计用区划代码，可直接用于view-design的cascader组件",
   "publishConfig": {
     "access": "public"
