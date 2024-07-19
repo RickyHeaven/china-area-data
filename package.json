@@ -1,0 +1,40 @@
+{
+  "name": "china-area-data",
+  "version": "0.0.1",
+  "description": "中国行政区域区域划分(含港澳台)，三级，省-市-区，数据来源于国家统计局2023年6月统计用区划代码，可直接用于view-design的cascader组件",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "chinaAreaL3.min.js"
+  ],
+  "main": "chinaAreaL3.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickyHeaven/china-area-data.git"
+  },
+  "keywords": [
+    "China",
+    "china area",
+    "regionalism",
+    "行政区域代码",
+    "中国省份",
+    "area data",
+    "province",
+    "city",
+    "picker",
+    "area picker",
+    "cascader",
+    "zhangqingcq",
+    "ricky"
+  ],
+  "author": "RickyHeaven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RickyHeaven/china-area-data/issues"
+  },
+  "homepage": "https://github.com/RickyHeaven/china-area-data#readme"
+}
